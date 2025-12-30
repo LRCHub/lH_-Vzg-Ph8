@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Fuzzy Feeling",
+  "base_artist": "grentperez & Benny Sings",
+  "createdAt": "2025-12-30T02:47:17.237902Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Warm Fuzzy Feeling",
+      "artist": "Fastball",
+      "has_synced": true,
+      "path": "select/01_Warm_Fuzzy_Feeling_Fastball.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fuzzy Feeling",
+      "artist": "grentperez",
+      "has_synced": true,
+      "path": "select/02_Fuzzy_Feeling_grentperez.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "06 Warm Fuzzy Feeling",
+      "artist": "Fastball",
+      "has_synced": true,
+      "path": "select/03_06_Warm_Fuzzy_Feeling_Fastball.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fuzzy Feeling",
+      "artist": "grentperez • Benny Sings",
+      "has_synced": true,
+      "path": "select/04_Fuzzy_Feeling_grentperez_•_Benny_Sings.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fuzzy Feeling",
+      "artist": "grentperez",
+      "has_synced": true,
+      "path": "select/05_Fuzzy_Feeling_grentperez.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fuzzy Feeling",
+      "artist": "grentperez & Benny Sings",
+      "has_synced": true,
+      "path": "select/06_Fuzzy_Feeling_grentperez_&_Benny_Sings.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fuzzy Feeling",
+      "artist": "grentperez, Benny Sings",
+      "has_synced": true,
+      "path": "select/07_Fuzzy_Feeling_grentperez,_Benny_Sings.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fuzzy Feeling",
+      "artist": "grentperez & Benny Sings",
+      "has_synced": false,
+      "path": "select/pl_01_Fuzzy_Feeling_grentperez_&_Benny_Sings.txt"
+    }
+  ]
+}
